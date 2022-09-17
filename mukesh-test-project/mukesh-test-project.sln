@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuzzBuzzHomeAPI", "BuzzBuzzHomeAPI\BuzzBuzzHomeAPI.csproj", "{C471AD8E-3526-47CC-9A81-672649054A60}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mukesh-test-project", "mukesh-test-project\mukesh-test-project.esproj", "{D5BA870A-E9DB-4148-88C0-1917BCB631EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C471AD8E-3526-47CC-9A81-672649054A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C471AD8E-3526-47CC-9A81-672649054A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C471AD8E-3526-47CC-9A81-672649054A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C471AD8E-3526-47CC-9A81-672649054A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BA870A-E9DB-4148-88C0-1917BCB631EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C7D4E3-9FF7-4FEF-BB9D-916ADAABEEC9}
+	EndGlobalSection
+EndGlobal
